@@ -1,6 +1,6 @@
 # Assistente Pessoal
 
-<img src="Docs/example.PNG" alt="drawing" width="400"/> <img src="https://google.github.io/mediapipe/images/mobile/hand_landmarks.png" alt="drawing" width="400" height = "500"/>
+<img src="Docs/example.PNG" alt="drawing" width="400"/> <img src="https://google.github.io/mediapipe/images/mobile/hand_landmarks.png" alt="drawing" width="400" height = "300"/>
 
 Um assistente pessoal aplicando reconhecimento de movimentos e de fala, veja os requisitos abaixo.
 
